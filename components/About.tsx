@@ -37,7 +37,7 @@ export default function About() {
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-4 text-gray-900">
-            What You'll Learn
+            What You&apos;ll Learn
           </h2>
           <p className="text-center text-gray-600 mb-12 text-lg max-w-2xl mx-auto">
             Gain insights and knowledge from industry experts on topics that matter most
